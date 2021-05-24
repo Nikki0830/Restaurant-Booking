@@ -1,0 +1,56 @@
+.imageclass{
+    height:150px;
+    width:160px
+}
+.quickSearchContainer{
+    margin-left:115px;
+    margin-top:50px;;
+    float: left;
+}
+
+.quickSearchHeading{
+    color:#192f60;
+    font-size:30px;
+    font-weight:bold;
+    font-family:Poppins;
+    line-height: .1;
+}
+
+.quickSearchSubHeading{
+    color:gray;
+    font-size:20px;
+    font-weight: normal;
+    font-family: Poppins;
+}
+
+.tilecontainer{
+    width:350px;
+    height:150px;
+    background-color:#ffffff;
+    box-shadow: 6px 10px 15px black;
+    float:left;
+    margin-right:30px;
+    margin-bottom:30px;
+}
+
+.tileComponent1{
+    width:50%;
+    float: left;
+}
+
+.tileComponent2{
+    width:50%;
+    float: left;
+}
+
+.componentHeading{
+    color:#192f60;
+    font-size:20px;
+    font-weight:bold;
+    margin-top:25px;
+}
+
+.componentSubHeading{
+    color:gray;
+    font-size:18px;
+}

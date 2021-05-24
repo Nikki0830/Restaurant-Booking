@@ -1,0 +1,52 @@
+body{
+    margin:auto;
+}
+.imgcontainer{
+    background:url('https://i.ibb.co/S0mcWy8/food.jpg');
+    border-style:solid;
+    border-color:white;
+    border-width:50px;
+    height:600px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-bottom:25px;
+}
+.logo{
+    text-align:center;
+    color:red;
+    font-size:90px;
+    background:white;
+    font-weight:bold;
+    height:150px;
+    width:150px;
+    border-radius:50%;
+    margin:auto;
+    margin-top:80px;
+    margin-bottom:10px;
+}
+.heading{
+    text-align:center;
+    color:white;
+    font-size:40px;
+    font-weight: bolder;
+} 
+.locationselector{
+    text-align:center;
+    margin-top:30px;
+    margin-bottom:40px;
+}
+.selector{
+    width:250px;
+    height:50px;
+    font-size:20px;
+    border-radius:2%;
+    border:none;
+    margin-right:25px;
+}
+.input{
+    width:400px;
+    height:50px;
+    font-size:20px;
+    border-radius:2%;
+    border:none;
+}

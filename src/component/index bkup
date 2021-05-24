@@ -1,0 +1,21 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Header from './component/Header';
+import Footer from './component/Footer';
+
+const App=() => {
+    return(
+       <React.Fragment>
+           <center>
+                <Header/>
+                    <h1>Hi to React</h1>
+                    <h2>welcome to react</h2>
+                    <img src=""/>
+                    <a href=""/>
+                <Footer year={2020} month={'March'}/>
+           </center> 
+       </React.Fragment>        
+    )
+}
+
+ReactDOM.render(<App/>,document.getElementById('root'))
