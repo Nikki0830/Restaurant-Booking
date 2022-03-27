@@ -1,6 +1,7 @@
 <h2>Zomato Clone</h2>
 This is a project I have done from Edureka in 2020. This is basically a food delivery website where you can order any food by your choice.
-
+</br>
+</br>
 
 
 
