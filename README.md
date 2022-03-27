@@ -4,16 +4,36 @@ This is a project I have done from Edureka in 2020. This is basically a food del
 </br>
 
 
-
+1-Home Page
+</br>
+<br>
 ![s jpg (2)](https://user-images.githubusercontent.com/69712671/159952050-5a250bc5-5436-48f3-97e7-7b851cd4cca0.png)
-
+</br>
+<br>
+1-Home Page(Cuisine Types)
+</br>
+<br>
 ![Screenshot (696)](https://user-images.githubusercontent.com/69712671/159953098-1160c328-cdfe-41f0-b979-0beaf6581fb0.png)
-
+</br>
+<br>
+1-Single Item Page
+</br>
+<br>
 ![Screenshot (701)](https://user-images.githubusercontent.com/69712671/159959708-5a834249-5add-42b2-a293-dc9b246f7b63.png)
-
+</br>
+<br>
+1-Booking Page
+</br>
+<br>
 ![Screenshot (702)](https://user-images.githubusercontent.com/69712671/159959762-51b0e44a-3cb0-4ac5-89fb-4d6a63623783.png)
-
+</br>
+<br>
+1-Order details page
+</br>
+<br>
 ![Screenshot (703)](https://user-images.githubusercontent.com/69712671/159959814-a795bece-82ad-4ab7-8d66-da271aeef96e.png)
+</br>
+<br>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
